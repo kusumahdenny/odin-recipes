@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipe
+Welcome!!! This is my first attempt to build my own website. For my first website, I will create a basic recipe website. To make this recipe, I will demonstrate all essential aspects of HTML, including elements, tags, boilerplate, text, lists, links, and images.
